@@ -1,2 +1,6 @@
 this is also dont know
+<<<<<<< HEAD
 This is added from local repository - kumar
+=======
+i added this from remote branch - battula branch
+>>>>>>> 4fcb275aeb0e1f896d5b0a41dcbd07d38f45913f
